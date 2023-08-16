@@ -1,14 +1,14 @@
 {
   "dev": {
     "awscloudformation": {
-      "AuthRoleName": "amplify-vuelogin-dev-104737-authRole",
-      "UnauthRoleArn": "arn:aws:iam::132260253285:role/amplify-vuelogin-dev-104737-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::132260253285:role/amplify-vuelogin-dev-104737-authRole",
-      "Region": "us-east-2",
-      "DeploymentBucketName": "amplify-vuelogin-dev-104737-deployment",
-      "UnauthRoleName": "amplify-vuelogin-dev-104737-unauthRole",
-      "StackName": "amplify-vuelogin-dev-104737",
-      "StackId": "arn:aws:cloudformation:us-east-2:132260253285:stack/amplify-vuelogin-dev-104737/cb0eeec0-3b50-11ee-b548-06786e949a19"
+      "AuthRoleName": "amplify-vuelogin-dev-112536-authRole",
+      "UnauthRoleArn": "arn:aws:iam::132260253285:role/amplify-vuelogin-dev-112536-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::132260253285:role/amplify-vuelogin-dev-112536-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-vuelogin-dev-112536-deployment",
+      "UnauthRoleName": "amplify-vuelogin-dev-112536-unauthRole",
+      "StackName": "amplify-vuelogin-dev-112536",
+      "StackId": "arn:aws:cloudformation:us-east-1:132260253285:stack/amplify-vuelogin-dev-112536/1f5e3d00-3b56-11ee-986f-1208b6388e65"
     }
   }
 }
